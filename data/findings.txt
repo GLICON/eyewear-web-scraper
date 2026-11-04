@@ -1,0 +1,11 @@
+KEY FINDINGS
+ - Frames collected: 568 from 27 brands.
+ - Glasses.com: 208 frames, 23 brands, prices $56-$506 (median $159).
+ - FramesDirect.com: 360 frames, 16 brands, prices $71-$581 (median $229).
+ - Most frames fall in the Premium ($200-349) band; 6% cost under $100.
+ - Top brand: Ray-Ban. 12 brands are sold by both retailers.
+ - Glasses.com: 99% of frames on sale, average discount 29%.
+ - FramesDirect.com: 58% of frames on sale, average discount 29%.
+ - 178 Glasses.com frames include lenses in the price (median $168).
+ - Most common frame shapes (FramesDirect): Rectangular (37), Square (16), Round (7).
+ - Five lowest-priced frames: Arnette AN7261 Woah $56.50 (Glasses.com); Arnette AN7247U Sandea $63.50 (Glasses.com); Arnette AN7246U Laflor $63.50 (Glasses.com); Scuderia Ferrari FZ8014D $64.50 (Glasses.com); Vogue Eyewear VY2019 $64.80 (Glasses.com).
